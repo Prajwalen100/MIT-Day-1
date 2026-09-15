@@ -20,19 +20,6 @@ Users can input customer information and receive a **real-time churn probability
 
 ---
 
-## 🎥 Live Project Walkthrough
-
-👉 https://www.youtube.com/watch?v=RKXDvzcKWL0
-
----
-
-## 🚀 Live Demo
-
-Streamlit App:  
-https://customer-churn-prediction-lr-rf.streamlit.app/
-
----
-
 ## 📊 Dataset
 
 This project uses the **Telco Customer Churn Dataset** available on Kaggle.
